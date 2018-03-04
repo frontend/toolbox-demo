@@ -1,0 +1,9 @@
+{
+  "generator-toolbox": {
+    "promptValues": {
+      "repo": "git@github.com:antistatique/toolbox.git",
+      "src": "assets/",
+      "dest": "build/"
+    }
+  }
+}
